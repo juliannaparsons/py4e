@@ -1,2 +1,2 @@
-# py4e
-Practice code I've modified for assignments in Python for Everybody by Dr. Charles Severance of Michigan University.
+# Spidering Practice Code
+These files include code to spider a website and then visualize a web.
